@@ -1,0 +1,1 @@
+ чем отличаются `git reset --soft`, `--mixed` и `--hard`?
